@@ -1,0 +1,66 @@
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;  
+    font-style: normal;    
+}
+div{
+    border: 2px solid black;
+    height:600px ;
+    width:350px;
+    border-radius: 10px;
+    text-align: center;
+  
+}
+h2{ color:black;
+    text-align: center; 
+    font-size: xx-large; 
+    margin:auto;
+  
+}
+h4{
+    font-size:xx-large;
+    text-align: center;
+    font-style:oblique;
+    margin: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    padding-right: 4px;
+
+}
+img{
+    padding: 15px;
+    margin-left: 2px;
+    padding: 0px;
+
+
+   
+}
+video{
+    height: 200px;
+    width: 300px;
+    margin-left: 20px;  
+
+}
+
+h5{
+    text-align: center;
+    font-size: medium;
+    color:  black;
+ }
+ a{
+   text-align: center;
+   margin-left: 50px;
+   text-decoration: none;
+   
+  
+ }
+ table{
+     padding: auto;
+ }
+ 
+ td{
+     padding: 10px;
+ }
+ 
